@@ -10,10 +10,6 @@ source: https://github.com/brownzach125/computerwiz
 ---
 
 
-TimeCard tracking application for HealthForAll a non-profit health clinic in College Station.
-Working with a team in my Software Engineering course at A&M we developed a ruby on rails application
-hosted on heroku. We worked as a team of six using Agile methods. I was the product owner for the team.
-
 Hobby game I developed for fun. The game centers around two wizards flinging 
 'spells' written in javascript at each other. Before matches its up to the players to write spells 
 using arbitrary javascript and the basic spells to come up with the best arsenal for defeating their opponent.
