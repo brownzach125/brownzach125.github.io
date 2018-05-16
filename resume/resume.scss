@@ -71,6 +71,7 @@ a {
       }
     }
 
+
     p {
       margin: 8px 30px 0px 0px;
       float: right;
@@ -205,128 +206,6 @@ a {
 
   #skillsDiv {
     ul {
-<<<<<<< HEAD
-        padding-left: 22px;
-        margin-bottom: 0;
-        margin-top: 0;
-        clear: both;
-        li {
-            margin: 3px 0 3px 0;
-        }
-    }
-
-    b {
-        font-weight: 500;
-    }
-    
-    dl {
-        dt {
-            width: 100px;
-            text-align: right;
-            float: left;
-            position: relative;
-            top: 10px;
-            font-size: 16px;
-            font-weight: 500;
-        }
-          
-        .clear {
-            height: 12px;
-            border: none;
-        } 
-        
-        dd {
-            width: 710px;
-            float: right;
-            padding-right: 10px;
-            border-left: 1px solid #898989;
-            padding-left: 16px;
-        }
-
-    }
-    
-    #eduDiv {
-        #university {
-            float: left;
-        }
-        #degree {
-            clear: both;
-        }
-    }
-
-    #expDiv {
-        
-        li {
-            line-height: 140%;
-        }
-
-        .company {
-            float: left;
-            margin-top: 4px;
-            margin-bottom: 0px;
-        }
-        
-        .triCol {
-            h4 {
-                margin-top: 5px;
-            }
-            ul {
-                list-style: none;
-                padding-left: 0;
-                
-            }
-        }
-        #extracurricular {
-            margin-top: 3px;
-            width: 45%;
-            float: left;
-        }
-        #leadership {
-            margin-top: 3px;
-            width: 54%;
-            float: left;
-        }
-    }
-
-    #skillsDiv {
-        ul {
-            list-style: none;
-            padding-left: 0;
-            font-size: 16px;
-            li {
-                margin-top: 12px;
-            }
-        }
-    }
-
-    #projectDiv {
-        #projectList {
-            list-style: none;
-            line-height: 1.4;
-            padding-left: 0;
-            li {
-                margin-top: 6px;  
-            }
-        }  
-    }
-
-    #volunteerDiv {
-        #volunteerList {
-          list-style: none;
-          line-height: 1.4;
-          padding-left: 0;
-          li {
-            margin-top: 6px;
-          }
-        }
-    }
-
-    #honorsDiv {
-        #honorsList {
-            list-style: none;
-            padding-left: 0;
-        }   
-=======
       list-style: none;
       padding-left: 0;
 
@@ -344,7 +223,6 @@ a {
       li {
         margin-bottom: 6px;
       }
->>>>>>> b5eb406... update resume
     }
   }
 
