@@ -226,10 +226,14 @@ a {
     }
   }
 
-  #honorsDiv {
-    #honorsList {
+  #volunteerDiv {
+    #volunteerList {
       list-style: none;
+      line-height: 1.4;
       padding-left: 0;
+      li {
+        margin-bottom: 6px;
+      }
     }
   }
 }
